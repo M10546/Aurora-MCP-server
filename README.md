@@ -170,3 +170,5 @@ This ensures consistency across all camp schedules.
 MIT License — free to use, modify, and distribute.
 
 ---
+
+ This was done for the Contra Holiday Challenge 2025
